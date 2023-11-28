@@ -72,7 +72,7 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="about.html">About Us</a>
-            </li>o 
+            </li>   
             <li class="nav-item">
               <a class="nav-link" href="/doctors">Doctors</a>
             </li>
